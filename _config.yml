@@ -12,6 +12,8 @@ collections:
   posts:
     output          : true
 
+theme: cayman
+
 # Handling Reading
 safe                : false
 include             : [".htaccess"]
