@@ -13,6 +13,8 @@ collections:
     output          : true
 
 theme: jekyll-theme-cayman
+title: Karácsonyi Minecraft 2025
+description: by jaksy
 
 # Handling Reading
 safe                : false
