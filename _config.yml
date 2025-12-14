@@ -12,7 +12,7 @@ collections:
   posts:
     output          : true
 
-theme: cayman
+theme: jekyll-theme-cayman
 
 # Handling Reading
 safe                : false
